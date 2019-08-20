@@ -1,0 +1,181 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+
+/* Top bar */ 
+
+.remark-slide-content {
+  border-top: 80px solid #cc0000;
+}
+
+
+.clear{
+  border-top: 0px solid #FAFAFA;
+}
+
+.clear.remark-slide-content > h1 {
+  color: #1A292C;
+}
+
+/* Title Fonts */ 
+
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+
+.remark-slide-content h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+
+
+/* Title slide */ 
+
+
+.title-slide {
+  background-color: #FAFAFA;
+  background-image: url(../images/logo.png);
+  background-position: 95% 5%;
+  background-size: 120px;
+  padding-left: 120px;  /* delete this for 4:3 aspect ratio */
+  border-top: 80px solid #FAFAFA;
+  border-bottom: 5px solid #FAFAFA;
+}
+
+
+/* H1 fonts */
+.title-slide h1 {
+  font-family: 'Yanone Kaffeesatz';
+  padding-top: 100px;
+  font-weight: normal;
+  font-size: 42px;
+  line-height: 1.5;
+  text-align: left;
+}
+
+/* H2 fonts */
+.title-slide h2 {
+font-family: 'Yanone Kaffeesatz';
+  color: #cc0000;
+  font-weight: normal;
+  font-size: 30px;
+  text-align: left;
+  text-shadow: none;
+}
+
+/* H3 fonts */
+.title-slide h3 {
+   font-family: 'Yanone Kaffeesatz';
+  font-size: 28px;
+  font-weight: normal;
+  color: #666666;
+  text-align: left;
+  text-shadow: none;
+}
+
+/* Final Slide */ 
+
+.title-slide-final {
+  background-color: #272822;
+  color: #fff;
+  padding-left: 100px;
+  text-shadow: 0 0 20px #333;
+  text-align: center;
+}
+
+.title-slide-final{
+  border-top: 0px solid #272822;
+}
+.title-slide-final h1 {
+  color: white;
+}
+
+.title-slide-final h2 {
+  color: white;
+}
+
+
+
+/* Tablas */
+
+.tablabase {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 12pt;     
+}
+
+.tablabase td, .rayas th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.tablabase th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgba(22,147,165, 1);
+    color: white;
+    font-weight: normal;
+    font-size:1.1em;
+}
+
+.rayas tr:nth-child(even){background-color: #f2f2f2;}
+
+.tablabase tr:hover {background-color: #ffff88;}
+
+.estrecha td, th {    padding: 5px;}
+
+.peque8 td, th {
+    padding: 1px;
+    font-size:8px;
+}
+
+.peque9estr td, th {
+    padding: 1px;
+    font-size:9px;
+}
+
+.peque9 td, th {
+    padding: 4px;
+    font-size:9px;
+}
+
+.peque10 td, th {
+    padding: 4px;
+    font-size:10px;
+}
+.peque10estre2 td, th {
+    padding: 3px;
+    font-size:10px;
+}
+.peque10estre td, th {
+    padding: 1px;
+    font-size:10px;
+}
+
+.peque11 td, th {
+    padding: 4px;
+    font-size:11px;
+}
+
+.peque12 td, th {
+    padding: 6px;
+    font-size:12px;
+}
+.peque13 td, th {
+    padding: 6px;
+    font-size:14px;
+}
+.peque14 td, th {
+    padding: 7px;
+    font-size:14px;
+}
+
+
+/* Remove slide count */
+.title-slide .remark-slide-number {
+  text-shadow: none;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}

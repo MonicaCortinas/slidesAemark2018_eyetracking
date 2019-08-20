@@ -1,0 +1,44 @@
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Resultado de aprendizaje</th>
+    <th class="tg-0pky">Criterios</th>
+    <th class="tg-0pky">Instrumento</th>
+    <th class="tg-0pky">Peso</th>
+    <th class="tg-0pky">Recuperable</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">RMO_08_Diseñar, planificar e iniciar un proyecto empresarial</td>
+    <td class="tg-0pky">Trabajo individual</td>
+    <td class="tg-0pky">Entregas</td>
+    <td class="tg-0pky">10%</td>
+    <td class="tg-0pky">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Asistencia y participación activa</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">5%</td>
+    <td class="tg-0pky">No</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Proyecto web</td>
+    <td class="tg-0pky">Página web y posicionamiento</td>
+    <td class="tg-0pky">20 %</td>
+    <td class="tg-0pky">Sí</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">RMO_09_ Planificar, organizar y controlar proyectos en el área de dirección de operaciones</td>
+    <td class="tg-0pky">Superar un examen final</td>
+    <td class="tg-0pky">Examen</td>
+    <td class="tg-0pky">40%*</td>
+    <td class="tg-0pky">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trabajo grupal ERP</td>
+    <td class="tg-0pky">Entregas y presentación</td>
+    <td class="tg-0pky">25 %</td>
+    <td class="tg-0pky">No</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</table>

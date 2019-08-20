@@ -1,0 +1,35 @@
+div.my-footer {
+  background-color: #272822;
+    position: absolute;
+  bottom: 0px;
+  left: 0px;
+  height: 25px;
+  width: 100%;
+}
+div.my-footer span {
+  font-size: 10pt;
+  color: #F7F8FA;
+    position: absolute;
+  left: 15px;
+  bottom: 2px;
+}
+
+div.my-footer a {
+  color: #42f4bf;
+}
+
+.remark-slide-number {
+  font-size: 10pt;
+  margin-bottom: -11.6px;
+  margin-right: 10px;
+  color: #FFFFFF; /* white */
+  opacity: 1; /* default: 0.5 */
+}
+
+.inverse .remark-slide-number {
+  font-size: 10pt;
+  margin-bottom: -11.6px;
+  margin-right: 10px;
+  color: #FFFFFF; /* white */
+  opacity: 1; /* default: 0.5 */
+}

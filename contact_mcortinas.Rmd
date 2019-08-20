@@ -1,0 +1,15 @@
+class: title-slide-final, middle
+
+background-image: url("images/upnablanco.png")
+background-size: 100px
+background-position: 90% 5%
+
+# Muchas gracias por su atención
+
+# ¿preguntas, sugerencias...?
+
+<hr>
+
+|  <i style="color:#cc0000" class="fa fa-envelope-o"></i> </a>  mcortinas@unavarra.es  |
+
+

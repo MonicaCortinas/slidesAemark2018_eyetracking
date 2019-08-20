@@ -1,0 +1,48 @@
+---
+title: "<small>What attention is paid to the elements in an online retailing store?: <br> <i class='fas fa-eye'></i> An Eye-Tracking study of the product area</small>"
+subtitle: "<small><u>Mónica Cortiñas</u>, Raquel Chocarro, Arantxa Villanueva (<i>Universidad Pública de Navarra</i>)</small>"
+author: ""
+institute: ""
+date: "<small>EAERCD 2019-Zaragoza, July 3</small>"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, addons/custom.css, addons/footer.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+options(knitr.duplicate.label = 'allow')
+# Enables Font Awesome in HTML based bookdown outputs.
+fa <- rmarkdown::html_dependency_font_awesome()
+htmltools::tagList(fa)
+library(here)
+```
+
+
+layout: true
+
+<div class="my-footer"><span><u>Cortiñas</u>, Chocarro and Villanueva, Universidad Pública de Navarra</span></div>
+
+
+
+```{r child='intro.Rmd'}
+```
+
+---
+
+```{r child='method.Rmd'}
+```
+
+---
+
+```{r child='results.Rmd'}
+```
+
+---
+
+```{r child='contact_mcortinas.Rmd'}
+```

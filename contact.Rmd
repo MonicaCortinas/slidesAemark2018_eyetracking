@@ -1,0 +1,12 @@
+class: title-slide-final, middle
+
+background-image: url("images/upnablanco.png")
+background-size: 100px
+background-position: 90% 5%
+
+# Thank you, questions?
+
+
+| <a href="mailto:avilla@unavarra.es"><i class="fa fa-envelope-o"></i> </a>                     avilla@unavarra.es              |
+
+

@@ -1,0 +1,48 @@
+---
+title: "<small>¿En qué se fijan los consumidores en un establecimiento online?:  Un estudio de Eye Tracking en el área de producto</small>"
+subtitle: "<small><u>Mónica Cortiñas</u>, Raquel Chocarro, Arantxa Villanueva (<i>Universidad Pública de Navarra</i>)</small>"
+author: ""
+institute: ""
+date: "<small>Aemark 2019- Cáceres, 13 de Septiembre</small>"
+output:
+  xaringan::moon_reader:
+    css: [default, styles/general.css, styles/xaringan.css, css/specific.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+options(knitr.duplicate.label = 'allow')
+# Enables Font Awesome in HTML based bookdown outputs.
+fa <- rmarkdown::html_dependency_font_awesome()
+htmltools::tagList(fa)
+library(here)
+```
+
+
+layout: true
+
+<div class="my-footer"><span><u>Cortiñas</u>, Chocarro and Villanueva, Universidad Pública de Navarra</span></div>
+
+
+
+```{r child='intro.Rmd'}
+```
+
+---
+
+```{r child='method.Rmd'}
+```
+
+---
+
+```{r child='results.Rmd'}
+```
+
+---
+
+```{r child='contact_mcortinas.Rmd'}
+```
